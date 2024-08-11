@@ -1,8 +1,8 @@
 /* eslint-disable react/no-unescaped-entities */
 // import React from "react";
 
-import DevList from "./devList";
 import { devData } from "../../data/devSection/devData";
+import DevList from "./DevelopList";
 
 export default function SkillSection() {
   return (
